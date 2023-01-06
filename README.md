@@ -24,6 +24,7 @@ Dataset Preparation
   6. Here Cross-entropy loss Function is used.It measures the difference between the predicted probability distribution and the true probability distribution of the      classes.
   
   Training Logs
+  
     epoch :  1 total loss :  10401.4091796875  correct1 :  595649 correct2 :  372379
     epoch :  2 total loss :  5014.6826171875  correct1 :  599665 correct2 :  501401
     epoch :  3 total loss :  3386.888427734375  correct1 :  599936 correct2 :  533625
