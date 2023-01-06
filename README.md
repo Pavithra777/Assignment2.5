@@ -22,4 +22,11 @@ Dataset Preparation
   4. The final output layer gives the sum of number in the image and the random number.
   5. Second label is prepared by adding first label tensor with random number. 
   6. Here Cross-entropy loss Function is used.It measures the difference between the predicted probability distribution and the true probability distribution of the      classes.
- 
+  
+  Training Logs
+    epoch :  1 total loss :  10401.4091796875  correct1 :  595649 correct2 :  372379
+    epoch :  2 total loss :  5014.6826171875  correct1 :  599665 correct2 :  501401
+    epoch :  3 total loss :  3386.888427734375  correct1 :  599936 correct2 :  533625
+    epoch :  4 total loss :  2402.40478515625  correct1 :  599984 correct2 :  552877
+    epoch :  5 total loss :  1811.1605224609375  correct1 :  599994 correct2 :  564475
+
