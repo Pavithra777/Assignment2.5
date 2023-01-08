@@ -1,10 +1,12 @@
 # Assignment2.5
 
 We are getting following two inputs
+    
     1. Image from MNIST dataset having handwritten number from 0 to 9
     2. Random number 0 to 9
     
 There are two output from neural network
+    
     1. Number refered in the MNIST image
     2. Sum of Number refered in the MNIST image and the random number
     
